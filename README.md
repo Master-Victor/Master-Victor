@@ -3,13 +3,9 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👨‍💻 All of my projects are available at [https://portafolio-black.vercel.app/](https://portafolio-black.vercel.app/)
-
 - 💬 Ask me about **React, react-hooks and Typescript**
 
 - 📫 How to reach me **vvillafane@frba.utn.edu.ar**
-
-- 📄 Know about my experiences [https://portafolio-black.vercel.app/cv.png](https://portafolio-black.vercel.app/cv.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
